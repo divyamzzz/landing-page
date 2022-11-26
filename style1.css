@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Sono:wght@200;400;500&display=swap');
+.minscreen{
+    min-height: 100vh;
+}
+.bgred
+{
+  background-color: red;
+}
+.mx-auto
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+.container
+{
+    max-width: 80vw;
+
+}
+.flex
+{
+    display: flex;
+}
+
+.itemscenter
+{
+    align-items: center;
+    font-family:'Sono',sans-serif;
+    
+}
+.justifybetween{
+    justify-content: space-between;
+}
+.justifycenter{
+   justify-content: center;
+}
+.justifyright
+{
+    justify-content: right;
+}
+.navbar{
+    display: flex;
+    height: 70px;
+    font-family: 'Sono',sans-serif;
+    font-size: large;
+    
+}
+.navbar li{
+    list-style: none;
+    display: flex;
+    margin: 0 16px;
+    font-family:'Sono',sans-serif;
+}
+.fontweight{
+    font-weight: bold;
+}
+.textlavender{
+    color:lavender ;
+}
+.fontsize
+{
+    font-size: xx-large;
+}
+.fontsize1
+{
+  font-size: 8vh;
+}
+.fontsize2
+{
+    font-size: 7vh;
+}
+.fontstyle
+{
+    font-family:'Sono',sans-serif;
+}
+.logo
+{
+    list-style: none;
+    margin: 0 20px;
+    height: 55px;
+}
+.topleft
+{
+    margin: 30px;
+    width: 50%;
+    font-family: 'Sono',sans-serif;
+    height: 40vh;
+}
+.topright{
+    width: 50%;
+    font-family: "Sono",sans-serif;
+}
+.topright img{
+    margin: 0 130px;
+    height: 40vh;
+}
+.para{
+    margin:15px;
+}
+
+.flexcol
+{
+    flex-direction: column;
+}
+.bgblack
+{
+    background-color: black;
+    margin: 15px;
+    border-radius: 50px;
+}
+.bgblack2
+{
+    background-color: black;
+    margin: 30px;
+    border-radius: 50px;
+}
+.liststyle
+{
+    list-style: none;
+}
+.width{
+    width: 45vh;
+}
+.mx-1
+{
+    margin: 30px 15px;
+}
+.imgsize
+{
+   width: 40vh;
+}
+.bottomleft
+{
+    width: 50%
+}
+.bottomright
+{
+    width: 90%;
+    height: 40vh;
+}
+.gifsize
+{
+   width: 40vh;
+}
+.mx-2
+{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+.mx-3
+{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.mx-4
+{
+    margin-left: 50px;
+}
+.bgblack3
+{
+    
+    margin: 25px;
+    border-radius: 60px;
+    background-color: black;
+    height: 85vh;
+}
+.mx-5
+{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.mx-6
+{
+    margin-top: 10px;
+}
+.imgsize1{
+    height: 20vh;
+}
+.mx-7
+{
+    margin: -20px 105px;
+}
+.pointer
+{
+    cursor: pointer;
+}
